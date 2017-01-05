@@ -5,7 +5,8 @@ public class Evenodd
 
 	public static void main(String[] args)
 	{
-		int n=8;
+		//updated n value
+		int n=13;
 		if(n%2==0)
 			System.out.println("it is even");
 		else
