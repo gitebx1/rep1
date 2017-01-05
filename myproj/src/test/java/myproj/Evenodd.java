@@ -12,6 +12,7 @@ public class Evenodd
 		else
 			System.out.println("it is odd");
 
+		System.out.println("bye");
 	}
 
 }
